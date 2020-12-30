@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - WeaponHolder
   layers:
   - Default
   - TransparentFX
@@ -13,6 +14,16 @@ TagManager:
   - UI
   - 
   - 
+  - Vault
+  - Wallrun
+  - Ledge
+  - Ladder
+  - TopWater
+  - UnderWater
+  - Overlay
+  - OverlayGun
+  - DamageZone
+  - Interactable
   - 
   - 
   - 
@@ -26,17 +37,7 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
   m_SortingLayers:
   - name: Default
     uniqueID: 0
